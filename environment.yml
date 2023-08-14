@@ -24,7 +24,7 @@ dependencies:
   - charset-normalizer=2.0.4
   - colorama=0.4.6
   - comm=0.1.2
-  - console_shortcut=0.1.1=4
+  - console_shortcut=0.1.1
   - contourpy=1.0.5
   - cryptography=39.0.1
   - cycler=0.11.0
@@ -37,9 +37,9 @@ dependencies:
   - fonttools=4.25.0
   - freetype=2.12.1
   - giflib=5.2.1
-  - glib=2.69.1
-  - gst-plugins-base=1.18.5
-  - gstreamer=1.18.5
+  # - glib=2.69.1
+  # - gst-plugins-base=1.18.5
+  # - gstreamer=1.18.5
   - icu=58.2
   - idna=3.4
   - intel-openmp=2023.1.0
@@ -68,7 +68,7 @@ dependencies:
   - libclang=14.0.6
   - libclang13=14.0.6
   - libdeflate=1.17
-  - libffi=3.4.4
+  # - libffi=3.4.4
   - libiconv=1.16
   - libogg=1.3.5
   - libpng=1.6.39
@@ -156,15 +156,15 @@ dependencies:
   - typing_extensions=4.6.3
   - tzdata=2023c
   - urllib3=1.26.16
-  - vc=14.2
-  - vs2015_runtime=14.27.29016
+  # - vc=14.2
+  # - vs2015_runtime=14.27.29016
   - wcwidth=0.2.5
   - webencodings=0.5.1
   - websocket-client=0.58.0
   - wheel=0.38.4
   # - win_inet_pton=1.1.0
   # - winpty=0.4.3
-  - xz=5.4.2
+  # - xz=5.4.2
   - yaml=0.2.5
   - zeromq=4.3.4
   - zlib=1.2.13
