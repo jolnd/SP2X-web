@@ -35,5 +35,5 @@ pandas==1.5.3
 # python
 python-dateutil==2.8.2
 # python-fastjsonschema==2.16.2
-python_abi==3.10
+# python_abi==3.10
 voila==0.4.0
