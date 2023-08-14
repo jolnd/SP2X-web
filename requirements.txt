@@ -31,7 +31,7 @@ notebook==6.5.4
 notebook-shim==0.2.2
 numexpr==2.8.4
 numpy==1.25.0
-numpy-base==1.25.0
+# numpy-base==1.25.0
 openpyxl==3.0.10
 openssl==1.1.1u
 pandas==1.5.3
